@@ -1,0 +1,2008 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.22.0
+    method: GET
+    uri: https://api.exchangeratesapi.io/latest?base=EUR
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAyWRwXLCMAxE/0Vn47Fly45zI0AJDYSMQ4bCjU75gdIbw793HY47K62epCd93x53
+        qmkzZVL0e/u7P6h+UrPtqbY6iVSK+uu6iMiSFO32I9VeG/EQeWqojqytd6xotZzrxARY0zgLy84r
+        GtqBaql0NA5l7cfbsXCuywwRdPAB1nKam4ITUfQ5XCCYtQmKThkiaEkw2g5VCEul5XDJhSckC3Fq
+        weNE24SWNneA096UsP4IkdDjsNBuPQ+1xukEhnX3LgwRYnWFYNFSEiaQOhAwFto22MHoKrFBxOEL
+        B2Isywmbd/mMQOecZszajYiwHqaicfu+CZKbvC+kLha4Yd8XwcGUhh48sdISI256nJ3ImLLqL4Us
+        xoI5bkqswamSvBT94Fd4HBubFiYsbKTXP0xVN+bOAQAA
+    headers:
+      Access-Control-Allow-Credentials:
+      - 'true'
+      Access-Control-Allow-Methods:
+      - GET
+      Access-Control-Allow-Origin:
+      - '*'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 4e8e24f76cce3e06-PRG
+      Cache-Control:
+      - public, max-age=14400
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json
+      Date:
+      - Tue, 18 Jun 2019 15:02:27 GMT
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Expires:
+      - Tue, 18 Jun 2019 19:02:27 GMT
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=db3606f46b498fd60f855b387086d0c3c1560870147; expires=Wed, 17-Jun-20
+        15:02:27 GMT; path=/; domain=.exchangeratesapi.io; HttpOnly
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.22.0
+    method: GET
+    uri: https://api.exchangeratesapi.io/latest?base=EUR
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAyWRwXLCMAxE/0Vn47Fly45zI0AJDYSMQ4bCjU75gdIbw793HY47K62epCd93x53
+        qmkzZVL0e/u7P6h+UrPtqbY6iVSK+uu6iMiSFO32I9VeG/EQeWqojqytd6xotZzrxARY0zgLy84r
+        GtqBaql0NA5l7cfbsXCuywwRdPAB1nKam4ITUfQ5XCCYtQmKThkiaEkw2g5VCEul5XDJhSckC3Fq
+        weNE24SWNneA096UsP4IkdDjsNBuPQ+1xukEhnX3LgwRYnWFYNFSEiaQOhAwFto22MHoKrFBxOEL
+        B2Isywmbd/mMQOecZszajYiwHqaicfu+CZKbvC+kLha4Yd8XwcGUhh48sdISI256nJ3ImLLqL4Us
+        xoI5bkqswamSvBT94Fd4HBubFiYsbKTXP0xVN+bOAQAA
+    headers:
+      Access-Control-Allow-Credentials:
+      - 'true'
+      Access-Control-Allow-Methods:
+      - GET
+      Access-Control-Allow-Origin:
+      - '*'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 4e8e24f7ca247bac-PRG
+      Cache-Control:
+      - public, max-age=14400
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json
+      Date:
+      - Tue, 18 Jun 2019 15:02:27 GMT
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Expires:
+      - Tue, 18 Jun 2019 19:02:27 GMT
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d61bdb4060a7dd8143edd0386fb7d9b901560870147; expires=Wed, 17-Jun-20
+        15:02:27 GMT; path=/; domain=.exchangeratesapi.io; HttpOnly
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.22.0
+    method: GET
+    uri: https://api.exchangeratesapi.io/latest?base=EUR
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAyWRwXLCMAxE/0Vn47Fly45zI0AJDYSMQ4bCjU75gdIbw793HY47K62epCd93x53
+        qmkzZVL0e/u7P6h+UrPtqbY6iVSK+uu6iMiSFO32I9VeG/EQeWqojqytd6xotZzrxARY0zgLy84r
+        GtqBaql0NA5l7cfbsXCuywwRdPAB1nKam4ITUfQ5XCCYtQmKThkiaEkw2g5VCEul5XDJhSckC3Fq
+        weNE24SWNneA096UsP4IkdDjsNBuPQ+1xukEhnX3LgwRYnWFYNFSEiaQOhAwFto22MHoKrFBxOEL
+        B2Isywmbd/mMQOecZszajYiwHqaicfu+CZKbvC+kLha4Yd8XwcGUhh48sdISI256nJ3ImLLqL4Us
+        xoI5bkqswamSvBT94Fd4HBubFiYsbKTXP0xVN+bOAQAA
+    headers:
+      Access-Control-Allow-Credentials:
+      - 'true'
+      Access-Control-Allow-Methods:
+      - GET
+      Access-Control-Allow-Origin:
+      - '*'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 4e8e24f84f657ba0-PRG
+      Cache-Control:
+      - public, max-age=14400
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json
+      Date:
+      - Tue, 18 Jun 2019 15:02:27 GMT
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Expires:
+      - Tue, 18 Jun 2019 19:02:27 GMT
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=da6309ac07851d513ceb1d8055362f71c1560870147; expires=Wed, 17-Jun-20
+        15:02:27 GMT; path=/; domain=.exchangeratesapi.io; HttpOnly
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.22.0
+    method: GET
+    uri: https://api.exchangeratesapi.io/latest?base=EUR
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAyWRwXLCMAxE/0Vn47Fly45zI0AJDYSMQ4bCjU75gdIbw793HY47K62epCd93x53
+        qmkzZVL0e/u7P6h+UrPtqbY6iVSK+uu6iMiSFO32I9VeG/EQeWqojqytd6xotZzrxARY0zgLy84r
+        GtqBaql0NA5l7cfbsXCuywwRdPAB1nKam4ITUfQ5XCCYtQmKThkiaEkw2g5VCEul5XDJhSckC3Fq
+        weNE24SWNneA096UsP4IkdDjsNBuPQ+1xukEhnX3LgwRYnWFYNFSEiaQOhAwFto22MHoKrFBxOEL
+        B2Isywmbd/mMQOecZszajYiwHqaicfu+CZKbvC+kLha4Yd8XwcGUhh48sdISI256nJ3ImLLqL4Us
+        xoI5bkqswamSvBT94Fd4HBubFiYsbKTXP0xVN+bOAQAA
+    headers:
+      Access-Control-Allow-Credentials:
+      - 'true'
+      Access-Control-Allow-Methods:
+      - GET
+      Access-Control-Allow-Origin:
+      - '*'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 4e8e24f8aebc7bd0-PRG
+      Cache-Control:
+      - public, max-age=14400
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json
+      Date:
+      - Tue, 18 Jun 2019 15:02:27 GMT
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Expires:
+      - Tue, 18 Jun 2019 19:02:27 GMT
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=df9731cbe67395136a92babc6d8d042071560870147; expires=Wed, 17-Jun-20
+        15:02:27 GMT; path=/; domain=.exchangeratesapi.io; HttpOnly
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.22.0
+    method: GET
+    uri: https://api.exchangeratesapi.io/latest?base=EUR
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAyWRwXLCMAxE/0Vn47Fly45zI0AJDYSMQ4bCjU75gdIbw793HY47K62epCd93x53
+        qmkzZVL0e/u7P6h+UrPtqbY6iVSK+uu6iMiSFO32I9VeG/EQeWqojqytd6xotZzrxARY0zgLy84r
+        GtqBaql0NA5l7cfbsXCuywwRdPAB1nKam4ITUfQ5XCCYtQmKThkiaEkw2g5VCEul5XDJhSckC3Fq
+        weNE24SWNneA096UsP4IkdDjsNBuPQ+1xukEhnX3LgwRYnWFYNFSEiaQOhAwFto22MHoKrFBxOEL
+        B2Isywmbd/mMQOecZszajYiwHqaicfu+CZKbvC+kLha4Yd8XwcGUhh48sdISI256nJ3ImLLqL4Us
+        xoI5bkqswamSvBT94Fd4HBubFiYsbKTXP0xVN+bOAQAA
+    headers:
+      Access-Control-Allow-Credentials:
+      - 'true'
+      Access-Control-Allow-Methods:
+      - GET
+      Access-Control-Allow-Origin:
+      - '*'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 4e8e24f92afc7b9a-PRG
+      Cache-Control:
+      - public, max-age=14400
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json
+      Date:
+      - Tue, 18 Jun 2019 15:02:28 GMT
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Expires:
+      - Tue, 18 Jun 2019 19:02:28 GMT
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=db74013385349047b1a8c7778266ee75e1560870148; expires=Wed, 17-Jun-20
+        15:02:28 GMT; path=/; domain=.exchangeratesapi.io; HttpOnly
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.22.0
+    method: GET
+    uri: https://api.exchangeratesapi.io/latest?base=EUR
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAyWRwXLCMAxE/0Vn47Fly45zI0AJDYSMQ4bCjU75gdIbw793HY47K62epCd93x53
+        qmkzZVL0e/u7P6h+UrPtqbY6iVSK+uu6iMiSFO32I9VeG/EQeWqojqytd6xotZzrxARY0zgLy84r
+        GtqBaql0NA5l7cfbsXCuywwRdPAB1nKam4ITUfQ5XCCYtQmKThkiaEkw2g5VCEul5XDJhSckC3Fq
+        weNE24SWNneA096UsP4IkdDjsNBuPQ+1xukEhnX3LgwRYnWFYNFSEiaQOhAwFto22MHoKrFBxOEL
+        B2Isywmbd/mMQOecZszajYiwHqaicfu+CZKbvC+kLha4Yd8XwcGUhh48sdISI256nJ3ImLLqL4Us
+        xoI5bkqswamSvBT94Fd4HBubFiYsbKTXP0xVN+bOAQAA
+    headers:
+      Access-Control-Allow-Credentials:
+      - 'true'
+      Access-Control-Allow-Methods:
+      - GET
+      Access-Control-Allow-Origin:
+      - '*'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 4e8e24f9e96c7ba0-PRG
+      Cache-Control:
+      - public, max-age=14400
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json
+      Date:
+      - Tue, 18 Jun 2019 15:02:28 GMT
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Expires:
+      - Tue, 18 Jun 2019 19:02:28 GMT
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d1d98a30b6011f465de42e63fdb15cdfc1560870148; expires=Wed, 17-Jun-20
+        15:02:28 GMT; path=/; domain=.exchangeratesapi.io; HttpOnly
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.22.0
+    method: GET
+    uri: https://api.exchangeratesapi.io/latest?base=EUR
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAyWRwXLCMAxE/0Vn47Fly45zI0AJDYSMQ4bCjU75gdIbw793HY47K62epCd93x53
+        qmkzZVL0e/u7P6h+UrPtqbY6iVSK+uu6iMiSFO32I9VeG/EQeWqojqytd6xotZzrxARY0zgLy84r
+        GtqBaql0NA5l7cfbsXCuywwRdPAB1nKam4ITUfQ5XCCYtQmKThkiaEkw2g5VCEul5XDJhSckC3Fq
+        weNE24SWNneA096UsP4IkdDjsNBuPQ+1xukEhnX3LgwRYnWFYNFSEiaQOhAwFto22MHoKrFBxOEL
+        B2Isywmbd/mMQOecZszajYiwHqaicfu+CZKbvC+kLha4Yd8XwcGUhh48sdISI256nJ3ImLLqL4Us
+        xoI5bkqswamSvBT94Fd4HBubFiYsbKTXP0xVN+bOAQAA
+    headers:
+      Access-Control-Allow-Credentials:
+      - 'true'
+      Access-Control-Allow-Methods:
+      - GET
+      Access-Control-Allow-Origin:
+      - '*'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 4e8e24fa5e5d3e06-PRG
+      Cache-Control:
+      - public, max-age=14400
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json
+      Date:
+      - Tue, 18 Jun 2019 15:02:28 GMT
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Expires:
+      - Tue, 18 Jun 2019 19:02:28 GMT
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d0f92af30f70c0a03ce6c7ead22fac3331560870148; expires=Wed, 17-Jun-20
+        15:02:28 GMT; path=/; domain=.exchangeratesapi.io; HttpOnly
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.22.0
+    method: GET
+    uri: https://api.exchangeratesapi.io/latest?base=EUR
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAyWRwXLCMAxE/0Vn47Fly45zI0AJDYSMQ4bCjU75gdIbw793HY47K62epCd93x53
+        qmkzZVL0e/u7P6h+UrPtqbY6iVSK+uu6iMiSFO32I9VeG/EQeWqojqytd6xotZzrxARY0zgLy84r
+        GtqBaql0NA5l7cfbsXCuywwRdPAB1nKam4ITUfQ5XCCYtQmKThkiaEkw2g5VCEul5XDJhSckC3Fq
+        weNE24SWNneA096UsP4IkdDjsNBuPQ+1xukEhnX3LgwRYnWFYNFSEiaQOhAwFto22MHoKrFBxOEL
+        B2Isywmbd/mMQOecZszajYiwHqaicfu+CZKbvC+kLha4Yd8XwcGUhh48sdISI256nJ3ImLLqL4Us
+        xoI5bkqswamSvBT94Fd4HBubFiYsbKTXP0xVN+bOAQAA
+    headers:
+      Access-Control-Allow-Credentials:
+      - 'true'
+      Access-Control-Allow-Methods:
+      - GET
+      Access-Control-Allow-Origin:
+      - '*'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 4e8e24facd677bbe-PRG
+      Cache-Control:
+      - public, max-age=14400
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json
+      Date:
+      - Tue, 18 Jun 2019 15:02:28 GMT
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Expires:
+      - Tue, 18 Jun 2019 19:02:28 GMT
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d83563851c2b6173a960de5f95493e2771560870148; expires=Wed, 17-Jun-20
+        15:02:28 GMT; path=/; domain=.exchangeratesapi.io; HttpOnly
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.22.0
+    method: GET
+    uri: https://api.exchangeratesapi.io/latest?base=EUR
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAyWRwXLCMAxE/0Vn47Fly45zI0AJDYSMQ4bCjU75gdIbw793HY47K62epCd93x53
+        qmkzZVL0e/u7P6h+UrPtqbY6iVSK+uu6iMiSFO32I9VeG/EQeWqojqytd6xotZzrxARY0zgLy84r
+        GtqBaql0NA5l7cfbsXCuywwRdPAB1nKam4ITUfQ5XCCYtQmKThkiaEkw2g5VCEul5XDJhSckC3Fq
+        weNE24SWNneA096UsP4IkdDjsNBuPQ+1xukEhnX3LgwRYnWFYNFSEiaQOhAwFto22MHoKrFBxOEL
+        B2Isywmbd/mMQOecZszajYiwHqaicfu+CZKbvC+kLha4Yd8XwcGUhh48sdISI256nJ3ImLLqL4Us
+        xoI5bkqswamSvBT94Fd4HBubFiYsbKTXP0xVN+bOAQAA
+    headers:
+      Access-Control-Allow-Credentials:
+      - 'true'
+      Access-Control-Allow-Methods:
+      - GET
+      Access-Control-Allow-Origin:
+      - '*'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 4e8e24fb29673de2-PRG
+      Cache-Control:
+      - public, max-age=14400
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json
+      Date:
+      - Tue, 18 Jun 2019 15:02:28 GMT
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Expires:
+      - Tue, 18 Jun 2019 19:02:28 GMT
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d26f04be12691280cf583be286ab0b1bf1560870148; expires=Wed, 17-Jun-20
+        15:02:28 GMT; path=/; domain=.exchangeratesapi.io; HttpOnly
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.22.0
+    method: GET
+    uri: https://api.exchangeratesapi.io/latest?base=EUR
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAyWRwXLCMAxE/0Vn47Fly45zI0AJDYSMQ4bCjU75gdIbw793HY47K62epCd93x53
+        qmkzZVL0e/u7P6h+UrPtqbY6iVSK+uu6iMiSFO32I9VeG/EQeWqojqytd6xotZzrxARY0zgLy84r
+        GtqBaql0NA5l7cfbsXCuywwRdPAB1nKam4ITUfQ5XCCYtQmKThkiaEkw2g5VCEul5XDJhSckC3Fq
+        weNE24SWNneA096UsP4IkdDjsNBuPQ+1xukEhnX3LgwRYnWFYNFSEiaQOhAwFto22MHoKrFBxOEL
+        B2Isywmbd/mMQOecZszajYiwHqaicfu+CZKbvC+kLha4Yd8XwcGUhh48sdISI256nJ3ImLLqL4Us
+        xoI5bkqswamSvBT94Fd4HBubFiYsbKTXP0xVN+bOAQAA
+    headers:
+      Access-Control-Allow-Credentials:
+      - 'true'
+      Access-Control-Allow-Methods:
+      - GET
+      Access-Control-Allow-Origin:
+      - '*'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 4e8e24fb9fb67bca-PRG
+      Cache-Control:
+      - public, max-age=14400
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json
+      Date:
+      - Tue, 18 Jun 2019 15:02:28 GMT
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Expires:
+      - Tue, 18 Jun 2019 19:02:28 GMT
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d5405229345f0c656653e30717939a31a1560870148; expires=Wed, 17-Jun-20
+        15:02:28 GMT; path=/; domain=.exchangeratesapi.io; HttpOnly
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.22.0
+    method: GET
+    uri: https://api.exchangeratesapi.io/latest?base=EUR
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAyWRwXLCMAxE/0Vn47Fly45zI0AJDYSMQ4bCjU75gdIbw793HY47K62epCd93x53
+        qmkzZVL0e/u7P6h+UrPtqbY6iVSK+uu6iMiSFO32I9VeG/EQeWqojqytd6xotZzrxARY0zgLy84r
+        GtqBaql0NA5l7cfbsXCuywwRdPAB1nKam4ITUfQ5XCCYtQmKThkiaEkw2g5VCEul5XDJhSckC3Fq
+        weNE24SWNneA096UsP4IkdDjsNBuPQ+1xukEhnX3LgwRYnWFYNFSEiaQOhAwFto22MHoKrFBxOEL
+        B2Isywmbd/mMQOecZszajYiwHqaicfu+CZKbvC+kLha4Yd8XwcGUhh48sdISI256nJ3ImLLqL4Us
+        xoI5bkqswamSvBT94Fd4HBubFiYsbKTXP0xVN+bOAQAA
+    headers:
+      Access-Control-Allow-Credentials:
+      - 'true'
+      Access-Control-Allow-Methods:
+      - GET
+      Access-Control-Allow-Origin:
+      - '*'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 4e8e24fc09dd3de2-PRG
+      Cache-Control:
+      - public, max-age=14400
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json
+      Date:
+      - Tue, 18 Jun 2019 15:02:28 GMT
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Expires:
+      - Tue, 18 Jun 2019 19:02:28 GMT
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d26f04be12691280cf583be286ab0b1bf1560870148; expires=Wed, 17-Jun-20
+        15:02:28 GMT; path=/; domain=.exchangeratesapi.io; HttpOnly
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.22.0
+    method: GET
+    uri: https://api.exchangeratesapi.io/latest?base=EUR
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAyWRwXLCMAxE/0Vn47Fly45zI0AJDYSMQ4bCjU75gdIbw793HY47K62epCd93x53
+        qmkzZVL0e/u7P6h+UrPtqbY6iVSK+uu6iMiSFO32I9VeG/EQeWqojqytd6xotZzrxARY0zgLy84r
+        GtqBaql0NA5l7cfbsXCuywwRdPAB1nKam4ITUfQ5XCCYtQmKThkiaEkw2g5VCEul5XDJhSckC3Fq
+        weNE24SWNneA096UsP4IkdDjsNBuPQ+1xukEhnX3LgwRYnWFYNFSEiaQOhAwFto22MHoKrFBxOEL
+        B2Isywmbd/mMQOecZszajYiwHqaicfu+CZKbvC+kLha4Yd8XwcGUhh48sdISI256nJ3ImLLqL4Us
+        xoI5bkqswamSvBT94Fd4HBubFiYsbKTXP0xVN+bOAQAA
+    headers:
+      Access-Control-Allow-Credentials:
+      - 'true'
+      Access-Control-Allow-Methods:
+      - GET
+      Access-Control-Allow-Origin:
+      - '*'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 4e8e24fc79117bd6-PRG
+      Cache-Control:
+      - public, max-age=14400
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json
+      Date:
+      - Tue, 18 Jun 2019 15:02:28 GMT
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Expires:
+      - Tue, 18 Jun 2019 19:02:28 GMT
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=df3bd39388793e5418443ab41bbd31db41560870148; expires=Wed, 17-Jun-20
+        15:02:28 GMT; path=/; domain=.exchangeratesapi.io; HttpOnly
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.22.0
+    method: GET
+    uri: https://api.exchangeratesapi.io/latest?base=EUR
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAyWRwXLCMAxE/0Vn47Fly45zI0AJDYSMQ4bCjU75gdIbw793HY47K62epCd93x53
+        qmkzZVL0e/u7P6h+UrPtqbY6iVSK+uu6iMiSFO32I9VeG/EQeWqojqytd6xotZzrxARY0zgLy84r
+        GtqBaql0NA5l7cfbsXCuywwRdPAB1nKam4ITUfQ5XCCYtQmKThkiaEkw2g5VCEul5XDJhSckC3Fq
+        weNE24SWNneA096UsP4IkdDjsNBuPQ+1xukEhnX3LgwRYnWFYNFSEiaQOhAwFto22MHoKrFBxOEL
+        B2Isywmbd/mMQOecZszajYiwHqaicfu+CZKbvC+kLha4Yd8XwcGUhh48sdISI256nJ3ImLLqL4Us
+        xoI5bkqswamSvBT94Fd4HBubFiYsbKTXP0xVN+bOAQAA
+    headers:
+      Access-Control-Allow-Credentials:
+      - 'true'
+      Access-Control-Allow-Methods:
+      - GET
+      Access-Control-Allow-Origin:
+      - '*'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 4e8e24fcef1d7bbe-PRG
+      Cache-Control:
+      - public, max-age=14400
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json
+      Date:
+      - Tue, 18 Jun 2019 15:02:28 GMT
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Expires:
+      - Tue, 18 Jun 2019 19:02:28 GMT
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d83563851c2b6173a960de5f95493e2771560870148; expires=Wed, 17-Jun-20
+        15:02:28 GMT; path=/; domain=.exchangeratesapi.io; HttpOnly
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.22.0
+    method: GET
+    uri: https://api.exchangeratesapi.io/latest?base=EUR
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAyWRwXLCMAxE/0Vn47Fly45zI0AJDYSMQ4bCjU75gdIbw793HY47K62epCd93x53
+        qmkzZVL0e/u7P6h+UrPtqbY6iVSK+uu6iMiSFO32I9VeG/EQeWqojqytd6xotZzrxARY0zgLy84r
+        GtqBaql0NA5l7cfbsXCuywwRdPAB1nKam4ITUfQ5XCCYtQmKThkiaEkw2g5VCEul5XDJhSckC3Fq
+        weNE24SWNneA096UsP4IkdDjsNBuPQ+1xukEhnX3LgwRYnWFYNFSEiaQOhAwFto22MHoKrFBxOEL
+        B2Isywmbd/mMQOecZszajYiwHqaicfu+CZKbvC+kLha4Yd8XwcGUhh48sdISI256nJ3ImLLqL4Us
+        xoI5bkqswamSvBT94Fd4HBubFiYsbKTXP0xVN+bOAQAA
+    headers:
+      Access-Control-Allow-Credentials:
+      - 'true'
+      Access-Control-Allow-Methods:
+      - GET
+      Access-Control-Allow-Origin:
+      - '*'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 4e8e24fd5af87bd0-PRG
+      Cache-Control:
+      - public, max-age=14400
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json
+      Date:
+      - Tue, 18 Jun 2019 15:02:28 GMT
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Expires:
+      - Tue, 18 Jun 2019 19:02:28 GMT
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d4806889df868f0040fc921cdf6dac2aa1560870148; expires=Wed, 17-Jun-20
+        15:02:28 GMT; path=/; domain=.exchangeratesapi.io; HttpOnly
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.22.0
+    method: GET
+    uri: https://api.exchangeratesapi.io/latest?base=EUR
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAyWRwXLCMAxE/0Vn47Fly45zI0AJDYSMQ4bCjU75gdIbw793HY47K62epCd93x53
+        qmkzZVL0e/u7P6h+UrPtqbY6iVSK+uu6iMiSFO32I9VeG/EQeWqojqytd6xotZzrxARY0zgLy84r
+        GtqBaql0NA5l7cfbsXCuywwRdPAB1nKam4ITUfQ5XCCYtQmKThkiaEkw2g5VCEul5XDJhSckC3Fq
+        weNE24SWNneA096UsP4IkdDjsNBuPQ+1xukEhnX3LgwRYnWFYNFSEiaQOhAwFto22MHoKrFBxOEL
+        B2Isywmbd/mMQOecZszajYiwHqaicfu+CZKbvC+kLha4Yd8XwcGUhh48sdISI256nJ3ImLLqL4Us
+        xoI5bkqswamSvBT94Fd4HBubFiYsbKTXP0xVN+bOAQAA
+    headers:
+      Access-Control-Allow-Credentials:
+      - 'true'
+      Access-Control-Allow-Methods:
+      - GET
+      Access-Control-Allow-Origin:
+      - '*'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 4e8e24fdcde33e30-PRG
+      Cache-Control:
+      - public, max-age=14400
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json
+      Date:
+      - Tue, 18 Jun 2019 15:02:28 GMT
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Expires:
+      - Tue, 18 Jun 2019 19:02:28 GMT
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d3eec4b501850ee3cf45b36d1d8a4115b1560870148; expires=Wed, 17-Jun-20
+        15:02:28 GMT; path=/; domain=.exchangeratesapi.io; HttpOnly
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.22.0
+    method: GET
+    uri: https://api.exchangeratesapi.io/latest?base=EUR
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAyWRwXLCMAxE/0Vn47Fly45zI0AJDYSMQ4bCjU75gdIbw793HY47K62epCd93x53
+        qmkzZVL0e/u7P6h+UrPtqbY6iVSK+uu6iMiSFO32I9VeG/EQeWqojqytd6xotZzrxARY0zgLy84r
+        GtqBaql0NA5l7cfbsXCuywwRdPAB1nKam4ITUfQ5XCCYtQmKThkiaEkw2g5VCEul5XDJhSckC3Fq
+        weNE24SWNneA096UsP4IkdDjsNBuPQ+1xukEhnX3LgwRYnWFYNFSEiaQOhAwFto22MHoKrFBxOEL
+        B2Isywmbd/mMQOecZszajYiwHqaicfu+CZKbvC+kLha4Yd8XwcGUhh48sdISI256nJ3ImLLqL4Us
+        xoI5bkqswamSvBT94Fd4HBubFiYsbKTXP0xVN+bOAQAA
+    headers:
+      Access-Control-Allow-Credentials:
+      - 'true'
+      Access-Control-Allow-Methods:
+      - GET
+      Access-Control-Allow-Origin:
+      - '*'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 4e8e24fe385a3df4-PRG
+      Cache-Control:
+      - public, max-age=14400
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json
+      Date:
+      - Tue, 18 Jun 2019 15:02:28 GMT
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Expires:
+      - Tue, 18 Jun 2019 19:02:28 GMT
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=dd82d226a0aea4fe9005460efbe2ae2fe1560870148; expires=Wed, 17-Jun-20
+        15:02:28 GMT; path=/; domain=.exchangeratesapi.io; HttpOnly
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.22.0
+    method: GET
+    uri: https://api.exchangeratesapi.io/latest?base=EUR
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAyWRwXLCMAxE/0Vn47Fly45zI0AJDYSMQ4bCjU75gdIbw793HY47K62epCd93x53
+        qmkzZVL0e/u7P6h+UrPtqbY6iVSK+uu6iMiSFO32I9VeG/EQeWqojqytd6xotZzrxARY0zgLy84r
+        GtqBaql0NA5l7cfbsXCuywwRdPAB1nKam4ITUfQ5XCCYtQmKThkiaEkw2g5VCEul5XDJhSckC3Fq
+        weNE24SWNneA096UsP4IkdDjsNBuPQ+1xukEhnX3LgwRYnWFYNFSEiaQOhAwFto22MHoKrFBxOEL
+        B2Isywmbd/mMQOecZszajYiwHqaicfu+CZKbvC+kLha4Yd8XwcGUhh48sdISI256nJ3ImLLqL4Us
+        xoI5bkqswamSvBT94Fd4HBubFiYsbKTXP0xVN+bOAQAA
+    headers:
+      Access-Control-Allow-Credentials:
+      - 'true'
+      Access-Control-Allow-Methods:
+      - GET
+      Access-Control-Allow-Origin:
+      - '*'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 4e8e24fea9e97bf4-PRG
+      Cache-Control:
+      - public, max-age=14400
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json
+      Date:
+      - Tue, 18 Jun 2019 15:02:28 GMT
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Expires:
+      - Tue, 18 Jun 2019 19:02:28 GMT
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d03b1bfb6c56d9038aab48b2d418aad861560870148; expires=Wed, 17-Jun-20
+        15:02:28 GMT; path=/; domain=.exchangeratesapi.io; HttpOnly
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.22.0
+    method: GET
+    uri: https://api.exchangeratesapi.io/latest?base=EUR
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAyWRwXLCMAxE/0Vn47Fly45zI0AJDYSMQ4bCjU75gdIbw793HY47K62epCd93x53
+        qmkzZVL0e/u7P6h+UrPtqbY6iVSK+uu6iMiSFO32I9VeG/EQeWqojqytd6xotZzrxARY0zgLy84r
+        GtqBaql0NA5l7cfbsXCuywwRdPAB1nKam4ITUfQ5XCCYtQmKThkiaEkw2g5VCEul5XDJhSckC3Fq
+        weNE24SWNneA096UsP4IkdDjsNBuPQ+1xukEhnX3LgwRYnWFYNFSEiaQOhAwFto22MHoKrFBxOEL
+        B2Isywmbd/mMQOecZszajYiwHqaicfu+CZKbvC+kLha4Yd8XwcGUhh48sdISI256nJ3ImLLqL4Us
+        xoI5bkqswamSvBT94Fd4HBubFiYsbKTXP0xVN+bOAQAA
+    headers:
+      Access-Control-Allow-Credentials:
+      - 'true'
+      Access-Control-Allow-Methods:
+      - GET
+      Access-Control-Allow-Origin:
+      - '*'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 4e8e24ff091d7bac-PRG
+      Cache-Control:
+      - public, max-age=14400
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json
+      Date:
+      - Tue, 18 Jun 2019 15:02:28 GMT
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Expires:
+      - Tue, 18 Jun 2019 19:02:28 GMT
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=dcab35a259e9026acc0e60536b27114b61560870148; expires=Wed, 17-Jun-20
+        15:02:28 GMT; path=/; domain=.exchangeratesapi.io; HttpOnly
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.22.0
+    method: GET
+    uri: https://api.exchangeratesapi.io/latest?base=EUR
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAyWRwXLCMAxE/0Vn47Fly45zI0AJDYSMQ4bCjU75gdIbw793HY47K62epCd93x53
+        qmkzZVL0e/u7P6h+UrPtqbY6iVSK+uu6iMiSFO32I9VeG/EQeWqojqytd6xotZzrxARY0zgLy84r
+        GtqBaql0NA5l7cfbsXCuywwRdPAB1nKam4ITUfQ5XCCYtQmKThkiaEkw2g5VCEul5XDJhSckC3Fq
+        weNE24SWNneA096UsP4IkdDjsNBuPQ+1xukEhnX3LgwRYnWFYNFSEiaQOhAwFto22MHoKrFBxOEL
+        B2Isywmbd/mMQOecZszajYiwHqaicfu+CZKbvC+kLha4Yd8XwcGUhh48sdISI256nJ3ImLLqL4Us
+        xoI5bkqswamSvBT94Fd4HBubFiYsbKTXP0xVN+bOAQAA
+    headers:
+      Access-Control-Allow-Credentials:
+      - 'true'
+      Access-Control-Allow-Methods:
+      - GET
+      Access-Control-Allow-Origin:
+      - '*'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 4e8e24ff7a0b3e1e-PRG
+      Cache-Control:
+      - public, max-age=14400
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json
+      Date:
+      - Tue, 18 Jun 2019 15:02:29 GMT
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Expires:
+      - Tue, 18 Jun 2019 19:02:29 GMT
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=da46e9faea2ff1dc2fe8657b54ffa30741560870149; expires=Wed, 17-Jun-20
+        15:02:29 GMT; path=/; domain=.exchangeratesapi.io; HttpOnly
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.22.0
+    method: GET
+    uri: https://api.exchangeratesapi.io/latest?base=EUR
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAyWRwXLCMAxE/0Vn47Fly45zI0AJDYSMQ4bCjU75gdIbw793HY47K62epCd93x53
+        qmkzZVL0e/u7P6h+UrPtqbY6iVSK+uu6iMiSFO32I9VeG/EQeWqojqytd6xotZzrxARY0zgLy84r
+        GtqBaql0NA5l7cfbsXCuywwRdPAB1nKam4ITUfQ5XCCYtQmKThkiaEkw2g5VCEul5XDJhSckC3Fq
+        weNE24SWNneA096UsP4IkdDjsNBuPQ+1xukEhnX3LgwRYnWFYNFSEiaQOhAwFto22MHoKrFBxOEL
+        B2Isywmbd/mMQOecZszajYiwHqaicfu+CZKbvC+kLha4Yd8XwcGUhh48sdISI256nJ3ImLLqL4Us
+        xoI5bkqswamSvBT94Fd4HBubFiYsbKTXP0xVN+bOAQAA
+    headers:
+      Access-Control-Allow-Credentials:
+      - 'true'
+      Access-Control-Allow-Methods:
+      - GET
+      Access-Control-Allow-Origin:
+      - '*'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 4e8e24ffec4a0a94-PRG
+      Cache-Control:
+      - public, max-age=14400
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json
+      Date:
+      - Tue, 18 Jun 2019 15:02:29 GMT
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Expires:
+      - Tue, 18 Jun 2019 19:02:29 GMT
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d8d248ce70d2c1663c21e528155ef66d91560870149; expires=Wed, 17-Jun-20
+        15:02:29 GMT; path=/; domain=.exchangeratesapi.io; HttpOnly
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.22.0
+    method: GET
+    uri: https://api.exchangeratesapi.io/latest?base=EUR
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAyWRwXLCMAxE/0Vn47Fly45zI0AJDYSMQ4bCjU75gdIbw793HY47K62epCd93x53
+        qmkzZVL0e/u7P6h+UrPtqbY6iVSK+uu6iMiSFO32I9VeG/EQeWqojqytd6xotZzrxARY0zgLy84r
+        GtqBaql0NA5l7cfbsXCuywwRdPAB1nKam4ITUfQ5XCCYtQmKThkiaEkw2g5VCEul5XDJhSckC3Fq
+        weNE24SWNneA096UsP4IkdDjsNBuPQ+1xukEhnX3LgwRYnWFYNFSEiaQOhAwFto22MHoKrFBxOEL
+        B2Isywmbd/mMQOecZszajYiwHqaicfu+CZKbvC+kLha4Yd8XwcGUhh48sdISI256nJ3ImLLqL4Us
+        xoI5bkqswamSvBT94Fd4HBubFiYsbKTXP0xVN+bOAQAA
+    headers:
+      Access-Control-Allow-Credentials:
+      - 'true'
+      Access-Control-Allow-Methods:
+      - GET
+      Access-Control-Allow-Origin:
+      - '*'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 4e8e25006eac7bfa-PRG
+      Cache-Control:
+      - public, max-age=14400
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json
+      Date:
+      - Tue, 18 Jun 2019 15:02:29 GMT
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Expires:
+      - Tue, 18 Jun 2019 19:02:29 GMT
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d32bea3e134d9f6d75324ac9281de32df1560870149; expires=Wed, 17-Jun-20
+        15:02:29 GMT; path=/; domain=.exchangeratesapi.io; HttpOnly
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.22.0
+    method: GET
+    uri: https://api.exchangeratesapi.io/latest?base=EUR
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAyWRwXLCMAxE/0Vn47Fly45zI0AJDYSMQ4bCjU75gdIbw793HY47K62epCd93x53
+        qmkzZVL0e/u7P6h+UrPtqbY6iVSK+uu6iMiSFO32I9VeG/EQeWqojqytd6xotZzrxARY0zgLy84r
+        GtqBaql0NA5l7cfbsXCuywwRdPAB1nKam4ITUfQ5XCCYtQmKThkiaEkw2g5VCEul5XDJhSckC3Fq
+        weNE24SWNneA096UsP4IkdDjsNBuPQ+1xukEhnX3LgwRYnWFYNFSEiaQOhAwFto22MHoKrFBxOEL
+        B2Isywmbd/mMQOecZszajYiwHqaicfu+CZKbvC+kLha4Yd8XwcGUhh48sdISI256nJ3ImLLqL4Us
+        xoI5bkqswamSvBT94Fd4HBubFiYsbKTXP0xVN+bOAQAA
+    headers:
+      Access-Control-Allow-Credentials:
+      - 'true'
+      Access-Control-Allow-Methods:
+      - GET
+      Access-Control-Allow-Origin:
+      - '*'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 4e8e2500cee13e2a-PRG
+      Cache-Control:
+      - public, max-age=14400
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json
+      Date:
+      - Tue, 18 Jun 2019 15:02:29 GMT
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Expires:
+      - Tue, 18 Jun 2019 19:02:29 GMT
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d3ed74eefb3c3a1b89cf1503a0c60ccb91560870149; expires=Wed, 17-Jun-20
+        15:02:29 GMT; path=/; domain=.exchangeratesapi.io; HttpOnly
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.22.0
+    method: GET
+    uri: https://api.exchangeratesapi.io/latest?base=EUR
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAyWRwXLCMAxE/0Vn47Fly45zI0AJDYSMQ4bCjU75gdIbw793HY47K62epCd93x53
+        qmkzZVL0e/u7P6h+UrPtqbY6iVSK+uu6iMiSFO32I9VeG/EQeWqojqytd6xotZzrxARY0zgLy84r
+        GtqBaql0NA5l7cfbsXCuywwRdPAB1nKam4ITUfQ5XCCYtQmKThkiaEkw2g5VCEul5XDJhSckC3Fq
+        weNE24SWNneA096UsP4IkdDjsNBuPQ+1xukEhnX3LgwRYnWFYNFSEiaQOhAwFto22MHoKrFBxOEL
+        B2Isywmbd/mMQOecZszajYiwHqaicfu+CZKbvC+kLha4Yd8XwcGUhh48sdISI256nJ3ImLLqL4Us
+        xoI5bkqswamSvBT94Fd4HBubFiYsbKTXP0xVN+bOAQAA
+    headers:
+      Access-Control-Allow-Credentials:
+      - 'true'
+      Access-Control-Allow-Methods:
+      - GET
+      Access-Control-Allow-Origin:
+      - '*'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 4e8e25013a687ba0-PRG
+      Cache-Control:
+      - public, max-age=14400
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json
+      Date:
+      - Tue, 18 Jun 2019 15:02:29 GMT
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Expires:
+      - Tue, 18 Jun 2019 19:02:29 GMT
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d90dabd68e90b2a5fae41eedc0a779a111560870149; expires=Wed, 17-Jun-20
+        15:02:29 GMT; path=/; domain=.exchangeratesapi.io; HttpOnly
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.22.0
+    method: GET
+    uri: https://api.exchangeratesapi.io/latest?base=EUR
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAyWRwXLCMAxE/0Vn47Fly45zI0AJDYSMQ4bCjU75gdIbw793HY47K62epCd93x53
+        qmkzZVL0e/u7P6h+UrPtqbY6iVSK+uu6iMiSFO32I9VeG/EQeWqojqytd6xotZzrxARY0zgLy84r
+        GtqBaql0NA5l7cfbsXCuywwRdPAB1nKam4ITUfQ5XCCYtQmKThkiaEkw2g5VCEul5XDJhSckC3Fq
+        weNE24SWNneA096UsP4IkdDjsNBuPQ+1xukEhnX3LgwRYnWFYNFSEiaQOhAwFto22MHoKrFBxOEL
+        B2Isywmbd/mMQOecZszajYiwHqaicfu+CZKbvC+kLha4Yd8XwcGUhh48sdISI256nJ3ImLLqL4Us
+        xoI5bkqswamSvBT94Fd4HBubFiYsbKTXP0xVN+bOAQAA
+    headers:
+      Access-Control-Allow-Credentials:
+      - 'true'
+      Access-Control-Allow-Methods:
+      - GET
+      Access-Control-Allow-Origin:
+      - '*'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 4e8e2501af307bd0-PRG
+      Cache-Control:
+      - public, max-age=14400
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json
+      Date:
+      - Tue, 18 Jun 2019 15:02:29 GMT
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Expires:
+      - Tue, 18 Jun 2019 19:02:29 GMT
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d49692c9e7b305f040bc9e21ca4f81ae91560870149; expires=Wed, 17-Jun-20
+        15:02:29 GMT; path=/; domain=.exchangeratesapi.io; HttpOnly
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.22.0
+    method: GET
+    uri: https://api.exchangeratesapi.io/latest?base=EUR
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAyWRwXLCMAxE/0Vn47Fly45zI0AJDYSMQ4bCjU75gdIbw793HY47K62epCd93x53
+        qmkzZVL0e/u7P6h+UrPtqbY6iVSK+uu6iMiSFO32I9VeG/EQeWqojqytd6xotZzrxARY0zgLy84r
+        GtqBaql0NA5l7cfbsXCuywwRdPAB1nKam4ITUfQ5XCCYtQmKThkiaEkw2g5VCEul5XDJhSckC3Fq
+        weNE24SWNneA096UsP4IkdDjsNBuPQ+1xukEhnX3LgwRYnWFYNFSEiaQOhAwFto22MHoKrFBxOEL
+        B2Isywmbd/mMQOecZszajYiwHqaicfu+CZKbvC+kLha4Yd8XwcGUhh48sdISI256nJ3ImLLqL4Us
+        xoI5bkqswamSvBT94Fd4HBubFiYsbKTXP0xVN+bOAQAA
+    headers:
+      Access-Control-Allow-Credentials:
+      - 'true'
+      Access-Control-Allow-Methods:
+      - GET
+      Access-Control-Allow-Origin:
+      - '*'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 4e8e25020b643e1e-PRG
+      Cache-Control:
+      - public, max-age=14400
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json
+      Date:
+      - Tue, 18 Jun 2019 15:02:29 GMT
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Expires:
+      - Tue, 18 Jun 2019 19:02:29 GMT
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=da46e9faea2ff1dc2fe8657b54ffa30741560870149; expires=Wed, 17-Jun-20
+        15:02:29 GMT; path=/; domain=.exchangeratesapi.io; HttpOnly
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.22.0
+    method: GET
+    uri: https://api.exchangeratesapi.io/latest?base=EUR
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAyWRwXLCMAxE/0Vn47Fly45zI0AJDYSMQ4bCjU75gdIbw793HY47K62epCd93x53
+        qmkzZVL0e/u7P6h+UrPtqbY6iVSK+uu6iMiSFO32I9VeG/EQeWqojqytd6xotZzrxARY0zgLy84r
+        GtqBaql0NA5l7cfbsXCuywwRdPAB1nKam4ITUfQ5XCCYtQmKThkiaEkw2g5VCEul5XDJhSckC3Fq
+        weNE24SWNneA096UsP4IkdDjsNBuPQ+1xukEhnX3LgwRYnWFYNFSEiaQOhAwFto22MHoKrFBxOEL
+        B2Isywmbd/mMQOecZszajYiwHqaicfu+CZKbvC+kLha4Yd8XwcGUhh48sdISI256nJ3ImLLqL4Us
+        xoI5bkqswamSvBT94Fd4HBubFiYsbKTXP0xVN+bOAQAA
+    headers:
+      Access-Control-Allow-Credentials:
+      - 'true'
+      Access-Control-Allow-Methods:
+      - GET
+      Access-Control-Allow-Origin:
+      - '*'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 4e8e25027bc27bbe-PRG
+      Cache-Control:
+      - public, max-age=14400
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json
+      Date:
+      - Tue, 18 Jun 2019 15:02:29 GMT
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Expires:
+      - Tue, 18 Jun 2019 19:02:29 GMT
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=da538e8467583e32faee623449675aa961560870149; expires=Wed, 17-Jun-20
+        15:02:29 GMT; path=/; domain=.exchangeratesapi.io; HttpOnly
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.22.0
+    method: GET
+    uri: https://api.exchangeratesapi.io/latest?base=EUR
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAyWRwXLCMAxE/0Vn47Fly45zI0AJDYSMQ4bCjU75gdIbw793HY47K62epCd93x53
+        qmkzZVL0e/u7P6h+UrPtqbY6iVSK+uu6iMiSFO32I9VeG/EQeWqojqytd6xotZzrxARY0zgLy84r
+        GtqBaql0NA5l7cfbsXCuywwRdPAB1nKam4ITUfQ5XCCYtQmKThkiaEkw2g5VCEul5XDJhSckC3Fq
+        weNE24SWNneA096UsP4IkdDjsNBuPQ+1xukEhnX3LgwRYnWFYNFSEiaQOhAwFto22MHoKrFBxOEL
+        B2Isywmbd/mMQOecZszajYiwHqaicfu+CZKbvC+kLha4Yd8XwcGUhh48sdISI256nJ3ImLLqL4Us
+        xoI5bkqswamSvBT94Fd4HBubFiYsbKTXP0xVN+bOAQAA
+    headers:
+      Access-Control-Allow-Credentials:
+      - 'true'
+      Access-Control-Allow-Methods:
+      - GET
+      Access-Control-Allow-Origin:
+      - '*'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 4e8e2502fc0e3e1e-PRG
+      Cache-Control:
+      - public, max-age=14400
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json
+      Date:
+      - Tue, 18 Jun 2019 15:02:29 GMT
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Expires:
+      - Tue, 18 Jun 2019 19:02:29 GMT
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=da46e9faea2ff1dc2fe8657b54ffa30741560870149; expires=Wed, 17-Jun-20
+        15:02:29 GMT; path=/; domain=.exchangeratesapi.io; HttpOnly
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.22.0
+    method: GET
+    uri: https://api.exchangeratesapi.io/latest?base=EUR
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAyWRwXLCMAxE/0Vn47Fly45zI0AJDYSMQ4bCjU75gdIbw793HY47K62epCd93x53
+        qmkzZVL0e/u7P6h+UrPtqbY6iVSK+uu6iMiSFO32I9VeG/EQeWqojqytd6xotZzrxARY0zgLy84r
+        GtqBaql0NA5l7cfbsXCuywwRdPAB1nKam4ITUfQ5XCCYtQmKThkiaEkw2g5VCEul5XDJhSckC3Fq
+        weNE24SWNneA096UsP4IkdDjsNBuPQ+1xukEhnX3LgwRYnWFYNFSEiaQOhAwFto22MHoKrFBxOEL
+        B2Isywmbd/mMQOecZszajYiwHqaicfu+CZKbvC+kLha4Yd8XwcGUhh48sdISI256nJ3ImLLqL4Us
+        xoI5bkqswamSvBT94Fd4HBubFiYsbKTXP0xVN+bOAQAA
+    headers:
+      Access-Control-Allow-Credentials:
+      - 'true'
+      Access-Control-Allow-Methods:
+      - GET
+      Access-Control-Allow-Origin:
+      - '*'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 4e8e25036d663dfa-PRG
+      Cache-Control:
+      - public, max-age=14400
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json
+      Date:
+      - Tue, 18 Jun 2019 15:02:29 GMT
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Expires:
+      - Tue, 18 Jun 2019 19:02:29 GMT
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=da233956c2c787305a1996a6a668acc691560870149; expires=Wed, 17-Jun-20
+        15:02:29 GMT; path=/; domain=.exchangeratesapi.io; HttpOnly
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.22.0
+    method: GET
+    uri: https://api.exchangeratesapi.io/latest?base=EUR
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAyWRwXLCMAxE/0Vn47Fly45zI0AJDYSMQ4bCjU75gdIbw793HY47K62epCd93x53
+        qmkzZVL0e/u7P6h+UrPtqbY6iVSK+uu6iMiSFO32I9VeG/EQeWqojqytd6xotZzrxARY0zgLy84r
+        GtqBaql0NA5l7cfbsXCuywwRdPAB1nKam4ITUfQ5XCCYtQmKThkiaEkw2g5VCEul5XDJhSckC3Fq
+        weNE24SWNneA096UsP4IkdDjsNBuPQ+1xukEhnX3LgwRYnWFYNFSEiaQOhAwFto22MHoKrFBxOEL
+        B2Isywmbd/mMQOecZszajYiwHqaicfu+CZKbvC+kLha4Yd8XwcGUhh48sdISI256nJ3ImLLqL4Us
+        xoI5bkqswamSvBT94Fd4HBubFiYsbKTXP0xVN+bOAQAA
+    headers:
+      Access-Control-Allow-Credentials:
+      - 'true'
+      Access-Control-Allow-Methods:
+      - GET
+      Access-Control-Allow-Origin:
+      - '*'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 4e8e2503dc473de8-PRG
+      Cache-Control:
+      - public, max-age=14400
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json
+      Date:
+      - Tue, 18 Jun 2019 15:02:29 GMT
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Expires:
+      - Tue, 18 Jun 2019 19:02:29 GMT
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=dfc49d1a9458d2cb39769e6aa07691db11560870149; expires=Wed, 17-Jun-20
+        15:02:29 GMT; path=/; domain=.exchangeratesapi.io; HttpOnly
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.22.0
+    method: GET
+    uri: https://api.exchangeratesapi.io/latest?base=EUR
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAyWRwXLCMAxE/0Vn47Fly45zI0AJDYSMQ4bCjU75gdIbw793HY47K62epCd93x53
+        qmkzZVL0e/u7P6h+UrPtqbY6iVSK+uu6iMiSFO32I9VeG/EQeWqojqytd6xotZzrxARY0zgLy84r
+        GtqBaql0NA5l7cfbsXCuywwRdPAB1nKam4ITUfQ5XCCYtQmKThkiaEkw2g5VCEul5XDJhSckC3Fq
+        weNE24SWNneA096UsP4IkdDjsNBuPQ+1xukEhnX3LgwRYnWFYNFSEiaQOhAwFto22MHoKrFBxOEL
+        B2Isywmbd/mMQOecZszajYiwHqaicfu+CZKbvC+kLha4Yd8XwcGUhh48sdISI256nJ3ImLLqL4Us
+        xoI5bkqswamSvBT94Fd4HBubFiYsbKTXP0xVN+bOAQAA
+    headers:
+      Access-Control-Allow-Credentials:
+      - 'true'
+      Access-Control-Allow-Methods:
+      - GET
+      Access-Control-Allow-Origin:
+      - '*'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 4e8e2504ac1d3dee-PRG
+      Cache-Control:
+      - public, max-age=14400
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json
+      Date:
+      - Tue, 18 Jun 2019 15:02:29 GMT
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Expires:
+      - Tue, 18 Jun 2019 19:02:29 GMT
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d0da60d6375d6e61f77fac5a404c5aa2d1560870149; expires=Wed, 17-Jun-20
+        15:02:29 GMT; path=/; domain=.exchangeratesapi.io; HttpOnly
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.22.0
+    method: GET
+    uri: https://api.exchangeratesapi.io/latest?base=EUR
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAyWRwXLCMAxE/0Vn47Fly45zI0AJDYSMQ4bCjU75gdIbw793HY47K62epCd93x53
+        qmkzZVL0e/u7P6h+UrPtqbY6iVSK+uu6iMiSFO32I9VeG/EQeWqojqytd6xotZzrxARY0zgLy84r
+        GtqBaql0NA5l7cfbsXCuywwRdPAB1nKam4ITUfQ5XCCYtQmKThkiaEkw2g5VCEul5XDJhSckC3Fq
+        weNE24SWNneA096UsP4IkdDjsNBuPQ+1xukEhnX3LgwRYnWFYNFSEiaQOhAwFto22MHoKrFBxOEL
+        B2Isywmbd/mMQOecZszajYiwHqaicfu+CZKbvC+kLha4Yd8XwcGUhh48sdISI256nJ3ImLLqL4Us
+        xoI5bkqswamSvBT94Fd4HBubFiYsbKTXP0xVN+bOAQAA
+    headers:
+      Access-Control-Allow-Credentials:
+      - 'true'
+      Access-Control-Allow-Methods:
+      - GET
+      Access-Control-Allow-Origin:
+      - '*'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 4e8e25051d817b9a-PRG
+      Cache-Control:
+      - public, max-age=14400
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json
+      Date:
+      - Tue, 18 Jun 2019 15:02:29 GMT
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Expires:
+      - Tue, 18 Jun 2019 19:02:29 GMT
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=de6c7401b7baf26d64dd6a1e5cb36b3431560870149; expires=Wed, 17-Jun-20
+        15:02:29 GMT; path=/; domain=.exchangeratesapi.io; HttpOnly
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.22.0
+    method: GET
+    uri: https://api.exchangeratesapi.io/latest?base=EUR
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAyWRwXLCMAxE/0Vn47Fly45zI0AJDYSMQ4bCjU75gdIbw793HY47K62epCd93x53
+        qmkzZVL0e/u7P6h+UrPtqbY6iVSK+uu6iMiSFO32I9VeG/EQeWqojqytd6xotZzrxARY0zgLy84r
+        GtqBaql0NA5l7cfbsXCuywwRdPAB1nKam4ITUfQ5XCCYtQmKThkiaEkw2g5VCEul5XDJhSckC3Fq
+        weNE24SWNneA096UsP4IkdDjsNBuPQ+1xukEhnX3LgwRYnWFYNFSEiaQOhAwFto22MHoKrFBxOEL
+        B2Isywmbd/mMQOecZszajYiwHqaicfu+CZKbvC+kLha4Yd8XwcGUhh48sdISI256nJ3ImLLqL4Us
+        xoI5bkqswamSvBT94Fd4HBubFiYsbKTXP0xVN+bOAQAA
+    headers:
+      Access-Control-Allow-Credentials:
+      - 'true'
+      Access-Control-Allow-Methods:
+      - GET
+      Access-Control-Allow-Origin:
+      - '*'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 4e8e25057ddd7b9a-PRG
+      Cache-Control:
+      - public, max-age=14400
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json
+      Date:
+      - Tue, 18 Jun 2019 15:02:30 GMT
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Expires:
+      - Tue, 18 Jun 2019 19:02:30 GMT
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d83fd2b90c4c6f0acc1ad474b22586fc91560870150; expires=Wed, 17-Jun-20
+        15:02:30 GMT; path=/; domain=.exchangeratesapi.io; HttpOnly
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.22.0
+    method: GET
+    uri: https://api.exchangeratesapi.io/latest?base=EUR
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAyWRwXLCMAxE/0Vn47Fly45zI0AJDYSMQ4bCjU75gdIbw793HY47K62epCd93x53
+        qmkzZVL0e/u7P6h+UrPtqbY6iVSK+uu6iMiSFO32I9VeG/EQeWqojqytd6xotZzrxARY0zgLy84r
+        GtqBaql0NA5l7cfbsXCuywwRdPAB1nKam4ITUfQ5XCCYtQmKThkiaEkw2g5VCEul5XDJhSckC3Fq
+        weNE24SWNneA096UsP4IkdDjsNBuPQ+1xukEhnX3LgwRYnWFYNFSEiaQOhAwFto22MHoKrFBxOEL
+        B2Isywmbd/mMQOecZszajYiwHqaicfu+CZKbvC+kLha4Yd8XwcGUhh48sdISI256nJ3ImLLqL4Us
+        xoI5bkqswamSvBT94Fd4HBubFiYsbKTXP0xVN+bOAQAA
+    headers:
+      Access-Control-Allow-Credentials:
+      - 'true'
+      Access-Control-Allow-Methods:
+      - GET
+      Access-Control-Allow-Origin:
+      - '*'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 4e8e2505eb3e7bfa-PRG
+      Cache-Control:
+      - public, max-age=14400
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json
+      Date:
+      - Tue, 18 Jun 2019 15:02:30 GMT
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Expires:
+      - Tue, 18 Jun 2019 19:02:30 GMT
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=da4c67953fb8f104b38c2e10f3b7651b81560870150; expires=Wed, 17-Jun-20
+        15:02:30 GMT; path=/; domain=.exchangeratesapi.io; HttpOnly
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.22.0
+    method: GET
+    uri: https://api.exchangeratesapi.io/latest?base=EUR
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAyWRwXLCMAxE/0Vn47Fly45zI0AJDYSMQ4bCjU75gdIbw793HY47K62epCd93x53
+        qmkzZVL0e/u7P6h+UrPtqbY6iVSK+uu6iMiSFO32I9VeG/EQeWqojqytd6xotZzrxARY0zgLy84r
+        GtqBaql0NA5l7cfbsXCuywwRdPAB1nKam4ITUfQ5XCCYtQmKThkiaEkw2g5VCEul5XDJhSckC3Fq
+        weNE24SWNneA096UsP4IkdDjsNBuPQ+1xukEhnX3LgwRYnWFYNFSEiaQOhAwFto22MHoKrFBxOEL
+        B2Isywmbd/mMQOecZszajYiwHqaicfu+CZKbvC+kLha4Yd8XwcGUhh48sdISI256nJ3ImLLqL4Us
+        xoI5bkqswamSvBT94Fd4HBubFiYsbKTXP0xVN+bOAQAA
+    headers:
+      Access-Control-Allow-Credentials:
+      - 'true'
+      Access-Control-Allow-Methods:
+      - GET
+      Access-Control-Allow-Origin:
+      - '*'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 4e8e25065fbe7bca-PRG
+      Cache-Control:
+      - public, max-age=14400
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json
+      Date:
+      - Tue, 18 Jun 2019 15:02:30 GMT
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Expires:
+      - Tue, 18 Jun 2019 19:02:30 GMT
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=dadeda95620e878f926b4db36c7b738181560870150; expires=Wed, 17-Jun-20
+        15:02:30 GMT; path=/; domain=.exchangeratesapi.io; HttpOnly
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+    status:
+      code: 200
+      message: OK
+version: 1
