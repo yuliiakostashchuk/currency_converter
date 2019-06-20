@@ -25,7 +25,7 @@ GET /currency_converter?amount=100&input_currency=€&output_currency=Kč HTTP/1
 cli.py
 
 ```python
-./currency_converter_yk/cli.py --amount 100 --input_currency EUR --output_currency CZK
+./cli.py --amount 100 --input_currency EUR --output_currency CZK
 ```
 
 ## Development
